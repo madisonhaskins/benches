@@ -1,0 +1,86 @@
+[Variables]
+%ALBUM%=Radnor
+%NR IMAGES%=14 images
+
+[Images]
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1335.JPG=0
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1336.JPG=1
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1337.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1338.JPG=3
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1340.JPG=4
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1345.JPG=5
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1346.JPG=6
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1347.JPG=7
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1348.JPG=8
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1350.JPG=9
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1355.JPG=10
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1356.JPG=11
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1359.JPG=12
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1362.JPG=13
+
+[Output directory]
+directory=C:\Users\Miranda Kelly\Downloads\Radnor Benches\
+
+[CSS_style]
+windows_bk_colour=clWhite
+%BACKGROUND_COLOUR%=#FFFFFF
+windows_<p>_colour=clBlack
+%<P>_COLOUR%=#000000
+windows_link_colour=clBlue
+%LINK_COLOUR%=#0000FF
+windows_active_link_colour=clBlue
+%ACTIVE_LINK_COLOUR%=#0000FF
+windows_visited_link_colour=clRed
+%VISITED_LINK_COLOUR%=#FF0000
+windows_hover_link_colour=clRed
+%HOVER_LINK_COLOUR%=#FF0000
+
+[Settings]
+image_sort_type=4
+navigation=0
+resize_quality=100
+resize_width_or_height=800
+resize_images=1
+thumbnail_quality=95
+thumbnail_width_or_height=120
+columns=4
+rows=8
+cellspacing=30
+description_width=400
+navigation_previous=&lt;&lt;-- previous
+navigation_next=next --&gt;&gt;
+images_word=images
+doc_type=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+charset=ISO-8859-1
+indexpage=index
+page_extension=.html
+thumbprefix=thumb_
+image_folder=photos
+thumb_folder=thumbnails
+title_under_thumbnail=1
+thumbnails_under_image=1
+include_number_of_images=1
+include_image_count=1
+include_image_name=1
+index_template=example.template
+image_template=example.template
+album_title_format=<h1>
+image_title_format=<h1>
+text_format=<p>
+description_format=<p>
+change_image_timestamp=0
+change_thumb_timestamp=0
+
+[Image rotate]
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1335.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1336.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1337.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1338.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1340.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1345.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1346.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1347.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1348.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1350.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1355.JPG=2
+C:\Users\Miranda Kelly\Downloads\Radnor Benches\IMG_1356.JPG=2
